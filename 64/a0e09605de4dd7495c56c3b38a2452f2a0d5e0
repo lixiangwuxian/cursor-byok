@@ -1,0 +1,20 @@
+internal/backend/agent/prompt/engine.go
+  s_0bb4930f738310::t_fcd489b2608d13 341-366
+  s_0bb4930f738310::t_bca238d0150c21 319
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "64a0e09605de4dd7495c56c3b38a2452f2a0d5e0",
+  "prompts": {},
+  "sessions": {
+    "s_0bb4930f738310": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e93d1e5b-59ae-4218-a2d1-bedff5d73af9",
+        "model": "654818ad46b60a12"
+      },
+      "human_author": "lixiangwuxian <lixiangwuxian@outlook.com>"
+    }
+  }
+}
